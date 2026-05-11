@@ -60,7 +60,7 @@ None: 1.74M
 Helps understand discount strategy impact on revenue.
 
 DashBoard
-<img width="1234" height="682" alt="image" src="https://github.com/user-attachments/assets/a5a868b1-fc75-400e-8ed6-e9d936ddacc4" />#
+<img width="1234" height="682" alt="image" src="https://github.com/user-attachments/assets/a5a868b1-fc75-400e-8ed6-e9d936ddacc4" />
 
 Key Insights
 Sales show strong growth over time.
