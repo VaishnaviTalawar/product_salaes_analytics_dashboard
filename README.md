@@ -1,4 +1,4 @@
-<img width="1234" height="682" alt="image" src="https://github.com/user-attachments/assets/a5a868b1-fc75-400e-8ed6-e9d936ddacc4" /># product_salaes_analytics_dashboard
+product_salaes_analytics_dashboard
 
 This project is an interactive Sales Analytics Dashboard designed to provide insights into product performance, profitability, sales trends, discounts, and regional contributions. It helps stakeholders quickly understand business performance and make data-driven decisions.
 
@@ -59,6 +59,8 @@ High: 3.39M
 None: 1.74M
 Helps understand discount strategy impact on revenue.
 
+DashBoard
+<img width="1234" height="682" alt="image" src="https://github.com/user-attachments/assets/a5a868b1-fc75-400e-8ed6-e9d936ddacc4" />#
 
 Key Insights
 Sales show strong growth over time.
