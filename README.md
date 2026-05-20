@@ -62,7 +62,7 @@ Helps understand discount strategy impact on revenue.
 DashBoard
 <img width="1234" height="682" alt="image" src="https://github.com/user-attachments/assets/a5a868b1-fc75-400e-8ed6-e9d936ddacc4" />
 
-Key Insights
+Key Insights:  
 Sales show strong growth over time.
 Government and Small Business segments contribute significantly.
 Certain products dominate both cost and revenue contribution.
@@ -70,7 +70,7 @@ Discounts are heavily applied in low and medium categories.
 Profit margin remains moderate at ~14%, indicating room for optimization.
 
 Tools Used
-Power BI / Tableau (assumed dashboard tool)
+Power BI 
 Data visualization & business intelligence techniques
 Sales and financial dataset analysis
 
